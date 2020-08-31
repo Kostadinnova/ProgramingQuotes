@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360800970988",
+    "firebase_url": "https://programmingquotes-55cc7.firebaseio.com",
+    "project_id": "programmingquotes-55cc7",
+    "storage_bucket": "programmingquotes-55cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360800970988:android:1e69377456a5e29490ddc9",
+        "android_client_info": {
+          "package_name": "com.example.programingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360800970988-2imtt2b9s1n1tq9csghd8t4uviaigrl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.programingapp",
+            "certificate_hash": "8e7a1bd9c1fcaa7b5a93ab7f09ec150d4a49ea51"
+          }
+        },
+        {
+          "client_id": "360800970988-eqoavdtuevgrr5bt9612a803hds5l1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UHKEUxz_MOA2YsTc1GcDpas75AOvsFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360800970988-eqoavdtuevgrr5bt9612a803hds5l1tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
